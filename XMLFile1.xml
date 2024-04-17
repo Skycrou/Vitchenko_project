@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<products_shop>
+	<product>
+		<ID>846</ID>
+	<Code_Product>8456</Code_Product>
+		<Title>Большое кресло</Title>
+		<Quentity>77</Quentity>
+		<Additional>Самое удобное</Additional>
+		<Coast>12 000 руб</Coast>
+	</product>
+
+<product>
+		<ID>847</ID>
+	<Code_Product>8256</Code_Product>
+		<Title>Большой диван</Title>
+		<Quentity>100</Quentity>
+		<Additional>Самое удобное</Additional>
+		<Coast>25 000 руб</Coast>
+	</product>
+
+</products_shop>
