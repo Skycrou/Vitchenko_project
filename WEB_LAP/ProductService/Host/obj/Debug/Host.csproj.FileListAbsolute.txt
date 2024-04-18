@@ -1,0 +1,20 @@
+C:\Users\Admin\source\repos\ProductService\Host\bin\Debug\Host.exe.config
+C:\Users\Admin\source\repos\ProductService\Host\bin\Debug\Host.exe
+C:\Users\Admin\source\repos\ProductService\Host\bin\Debug\Host.pdb
+C:\Users\Admin\source\repos\ProductService\Host\bin\Debug\ProductService.dll
+C:\Users\Admin\source\repos\ProductService\Host\bin\Debug\ProductService.pdb
+C:\Users\Admin\source\repos\ProductService\Host\obj\Debug\Host.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ProductService\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ProductService\Host\obj\Debug\Host.csproj.CopyComplete
+C:\Users\Admin\source\repos\ProductService\Host\obj\Debug\Host.exe
+C:\Users\Admin\source\repos\ProductService\Host\obj\Debug\Host.pdb
+D:\1-й семестр 2023 (4 курс)\Lapshin\WEB_LAP\ProductService\Host\bin\Debug\Host.exe.config
+D:\1-й семестр 2023 (4 курс)\Lapshin\WEB_LAP\ProductService\Host\bin\Debug\Host.exe
+D:\1-й семестр 2023 (4 курс)\Lapshin\WEB_LAP\ProductService\Host\bin\Debug\Host.pdb
+D:\1-й семестр 2023 (4 курс)\Lapshin\WEB_LAP\ProductService\Host\bin\Debug\ProductService.dll
+D:\1-й семестр 2023 (4 курс)\Lapshin\WEB_LAP\ProductService\Host\bin\Debug\ProductService.pdb
+D:\1-й семестр 2023 (4 курс)\Lapshin\WEB_LAP\ProductService\Host\obj\Debug\Host.csprojAssemblyReference.cache
+D:\1-й семестр 2023 (4 курс)\Lapshin\WEB_LAP\ProductService\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+D:\1-й семестр 2023 (4 курс)\Lapshin\WEB_LAP\ProductService\Host\obj\Debug\Host.csproj.CopyComplete
+D:\1-й семестр 2023 (4 курс)\Lapshin\WEB_LAP\ProductService\Host\obj\Debug\Host.exe
+D:\1-й семестр 2023 (4 курс)\Lapshin\WEB_LAP\ProductService\Host\obj\Debug\Host.pdb

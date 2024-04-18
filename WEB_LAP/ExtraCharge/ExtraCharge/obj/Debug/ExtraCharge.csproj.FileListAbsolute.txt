@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\ExtraCharge\ExtraCharge\bin\Debug\ExtraCharge.dll
+C:\Users\Admin\source\repos\ExtraCharge\ExtraCharge\bin\Debug\ExtraCharge.pdb
+C:\Users\Admin\source\repos\ExtraCharge\ExtraCharge\obj\Debug\ExtraCharge.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ExtraCharge\ExtraCharge\obj\Debug\ExtraCharge.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ExtraCharge\ExtraCharge\obj\Debug\ExtraCharge.dll
+C:\Users\Admin\source\repos\ExtraCharge\ExtraCharge\obj\Debug\ExtraCharge.pdb

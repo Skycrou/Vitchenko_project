@@ -1,0 +1,18 @@
+[
+  {
+    "ID": 1,
+    "Code_Product": "200",
+    "Title": "Washing gel",
+    "Quentity": 350,
+    "Additional": "Effective",
+    "Coast": "1000 rub"
+  },
+  {
+    "ID": 2,
+    "Code_Product": "300",
+    "Title": "Washing powder",
+    "Quentity": 540,
+    "Additional": "Effective",
+    "Coast": "800 rub"
+  }
+]

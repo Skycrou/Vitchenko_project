@@ -1,0 +1,79 @@
+﻿.registr {
+    border-style: none;
+    display: flex;
+    flex-direction: column;
+    border-color: inherit;
+    border-width: medium;
+    position: absolute;
+    align-items: center;
+    left: 35%;
+    top: 25%;
+    background-color: white;
+    border-radius: 25px;
+    height: 45%;
+    width: 25%;
+    
+}
+
+.image {
+    position: absolute;
+    left: 0%;
+    top: 0%;
+}
+
+#TextBox1 {
+    position: relative;
+    margin-top: 5%;
+    padding-left: 30px;
+    border: none;
+    height: 10%;
+    width: 70%;
+    border-radius: 10px;
+    /*background-image: url(Resources/free-icon-user-456212.png);*/
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position-y: center;
+    background-position-x: 3%;
+    background-color: lightgray;
+}
+
+#TextBox2 {
+    position: relative;
+    margin-top: 5%;
+    padding-left: 30px;
+    border: none;
+    height: 10%;
+    width: 70%;
+    border-radius: 10px;
+    /*background-image: url(Resources/free-icon-lock-6282948.png);*/
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position-y: center;
+    background-position-x: 3%;
+    background-color: lightgray;
+}
+
+.lbl_1 {
+    position: relative;
+}
+
+.btn-new {
+    height: 10%;
+    width: 60%;
+    margin-top: 6%;
+    text-align: center;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    background-image: linear-gradient(to right, #00b01e 0%, #f3ed2dbf 51%, #00b990 100%);
+}
+
+    .btn-new:hover {
+        background-position: right center;
+    }
+body {
+    background: url(~/Resources/fon1.jpg);
+}

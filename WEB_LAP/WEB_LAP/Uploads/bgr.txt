@@ -1,0 +1,1 @@
+var image = new Image<Bgr, Byte>(new Bitmap(pictureBox.Image));

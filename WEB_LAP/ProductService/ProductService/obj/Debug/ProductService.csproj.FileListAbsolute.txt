@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\ProductService\ProductService\bin\Debug\ProductService.dll
+C:\Users\Admin\source\repos\ProductService\ProductService\bin\Debug\ProductService.pdb
+C:\Users\Admin\source\repos\ProductService\ProductService\obj\Debug\ProductService.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ProductService\ProductService\obj\Debug\ProductService.dll
+C:\Users\Admin\source\repos\ProductService\ProductService\obj\Debug\ProductService.pdb
+C:\Users\Admin\source\repos\ProductService\ProductService\obj\Debug\ProductService.csprojAssemblyReference.cache

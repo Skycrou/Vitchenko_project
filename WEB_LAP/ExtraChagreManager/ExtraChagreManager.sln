@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtraChagreManager", "ExtraChagreManager\ExtraChagreManager.csproj", "{782B08C0-A698-4459-9DD2-CFA60B6BB061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{782B08C0-A698-4459-9DD2-CFA60B6BB061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{782B08C0-A698-4459-9DD2-CFA60B6BB061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{782B08C0-A698-4459-9DD2-CFA60B6BB061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{782B08C0-A698-4459-9DD2-CFA60B6BB061}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21C9E13F-C900-4830-80A9-03BC2D506038}
+	EndGlobalSection
+EndGlobal

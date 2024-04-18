@@ -1,0 +1,20 @@
+﻿.btn-new {
+    border-radius: 10px;
+    color: white;
+    transition: .2s linear;
+    background-image: linear-gradient(to left, #0e3b08 0%, #4CAF50 100%);
+    border: none;
+}
+
+    .btn-new:hover {
+        box-shadow: 0 0 0 2px white, 0 0 0 4px #4CAF50;
+    }
+
+.txt_for_conncetion_withDatabase {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    right: 2%;
+    top: 0;
+    align-items: center;
+}

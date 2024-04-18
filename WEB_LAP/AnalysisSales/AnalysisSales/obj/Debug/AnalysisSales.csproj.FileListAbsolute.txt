@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\AnalysisSales\AnalysisSales\bin\Debug\AnalysisSales.dll
+C:\Users\Admin\source\repos\AnalysisSales\AnalysisSales\bin\Debug\AnalysisSales.pdb
+C:\Users\Admin\source\repos\AnalysisSales\AnalysisSales\obj\Debug\AnalysisSales.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AnalysisSales\AnalysisSales\obj\Debug\AnalysisSales.dll
+C:\Users\Admin\source\repos\AnalysisSales\AnalysisSales\obj\Debug\AnalysisSales.pdb
+C:\Users\Admin\source\repos\AnalysisSales\AnalysisSales\obj\Debug\AnalysisSales.csprojAssemblyReference.cache
+D:\1-й семестр 2023 (4 курс)\Lapshin\WEB_LAP\AnalysisSales\AnalysisSales\bin\Debug\AnalysisSales.dll
+D:\1-й семестр 2023 (4 курс)\Lapshin\WEB_LAP\AnalysisSales\AnalysisSales\bin\Debug\AnalysisSales.pdb
+D:\1-й семестр 2023 (4 курс)\Lapshin\WEB_LAP\AnalysisSales\AnalysisSales\obj\Debug\AnalysisSales.csprojAssemblyReference.cache
+D:\1-й семестр 2023 (4 курс)\Lapshin\WEB_LAP\AnalysisSales\AnalysisSales\obj\Debug\AnalysisSales.csproj.CoreCompileInputs.cache
+D:\1-й семестр 2023 (4 курс)\Lapshin\WEB_LAP\AnalysisSales\AnalysisSales\obj\Debug\AnalysisSales.dll
+D:\1-й семестр 2023 (4 курс)\Lapshin\WEB_LAP\AnalysisSales\AnalysisSales\obj\Debug\AnalysisSales.pdb

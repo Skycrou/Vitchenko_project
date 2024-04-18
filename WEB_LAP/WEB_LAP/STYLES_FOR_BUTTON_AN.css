@@ -1,0 +1,53 @@
+﻿/* Общие стили для кнопки */
+.button {
+    display: inline-block;
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* Стили для обычного состояния кнопки */
+.button-blue {
+    position: relative;
+    width: 50%;
+    padding: 5px;
+    border-radius: 10px;
+    margin-top: 30px;
+    color: #ffffff;
+    font-weight: bold;
+    background-color: #17f224;
+    border: 2px solid #0f5602;
+    height: 100px;
+}
+
+    /* Стили для состояния наведения на кнопку */
+    .button-blue:hover {
+        background-color: #08310f;
+        border-color: #ffffff;
+    }
+
+    /* Стили для состояния нажатия на кнопку */
+    .button-blue:active {
+        background-color: #fff037;
+        border-color: #ffc41d;
+    }
+
+.fixed-button {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    transform: translateX(-50%);
+    /* Дополнительные стили для кнопки (по вашему выбору) */
+    padding: 10px 20px;
+    background-color: #014206;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}

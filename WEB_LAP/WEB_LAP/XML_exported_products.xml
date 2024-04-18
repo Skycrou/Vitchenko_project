@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<MyDataSet>
+  <MyTable>
+    <ID>1</ID>
+    <Code_Product>200</Code_Product>
+    <Title>Washing gel</Title>
+    <Quentity>350</Quentity>
+    <Additional>Effective</Additional>
+    <Coast>1000 rub</Coast>
+  </MyTable>
+  <MyTable>
+    <ID>2</ID>
+    <Code_Product>300</Code_Product>
+    <Title>Washing powder</Title>
+    <Quentity>540</Quentity>
+    <Additional>Effective</Additional>
+    <Coast>800 rub</Coast>
+  </MyTable>
+</MyDataSet>
